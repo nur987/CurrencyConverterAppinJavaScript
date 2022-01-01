@@ -1,4 +1,4 @@
-# Currency Converter App in JavaScript
+# Currency Converter App
 
 https://nur987.github.io/CurrencyConverterAppinJavaScript/
 
